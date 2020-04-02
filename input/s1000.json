@@ -1,0 +1,5 @@
+{
+    "0": { "SetAnimation": ["Attacker", "attack"] },
+    "15": { "AttachAvatarPosEffect": ["Attacker", 29, 1, 0, 1, [60, -30], 5] },
+    "21": { "DamageEffect": ["Attacker", "Targeter"] }
+}
